@@ -24,5 +24,6 @@
       <p>After all of the above methods work try adding this method: <code>public String toString()</code> </p>
       <p>toString returns "The amazing XXX" where you replace XXX with the Cat's name</p>
     </li>
-    <li><p>What changes when you run this? What does this suggest about toString?</p></li>
+    <li><p>Write a comment at the top of your <code>Kitty.java file</code> where you answer the following questions:</p>
+      <p>I)What changes when you run this? II) What does this suggest about what happens when you print an object?</p></li>
   </ol>
