@@ -21,7 +21,7 @@
       </ul>
     </li>
     <li>
-      <p>After all of the above methods work try adding this method: <code>public String toString()</code> </p>
+      <p>After all of the above methods work try adding this method to the Kitty class: <code>public String toString()</code> </p>
       <p>toString returns "The amazing XXX" where you replace XXX with the Cat's name</p>
     </li>
     <li><p>Write a comment at the very top of your <code>Kitty.java</code> file where you answer the following questions:</p>
