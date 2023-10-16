@@ -25,5 +25,7 @@
       <p>toString returns "The amazing XXX" where you replace XXX with the Cat's name</p>
     </li>
     <li><p>Write a comment at the very top of your <code>Kitty.java</code> file where you answer the following questions:</p>
-      <p>I)What changes when you run the main after this change? II) What does this suggest about what happens when you print an object?</p></li>
+      <p>I. What is your name?</p>
+      <p>II. What changes when you run the main after writing toString?</p>
+      <p>III. What does this suggest about what happens when you print an object?</p></li>
   </ol>
