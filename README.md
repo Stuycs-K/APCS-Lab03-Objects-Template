@@ -1,7 +1,7 @@
   <ol>
     <li>Write a Kitty class. Save the file in the same directory as the Driver file.</li>
     <li>
-      Fill in all the required methods, but leave the body blank (non-void methods need a temporary return value).
+      Fill in all the required methods one at a time, and uncomment the test cases in the driver.
       All methods should be public, and all instance variables should be private.
       <ul>
         <li>Constructor: <code>Kitty(String,int)</code> - initilaizes the name/age to the parameters</li>
@@ -12,7 +12,7 @@
         <li>Method: <code>void makeOlder()</code> - adds one to the age.</li>
       </ul>
     </li>
-    <li>Compile and run the driver with your "Blank" class.</li>
+    <li>Compile and run the driver each time you modify your Kitty class.</li>
     <li>Start writing the methods. Every time you write a constructor/method you must:
       <ul>
          <li> Uncomment the part of the main that tests it.</li>
